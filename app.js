@@ -16,6 +16,7 @@ inputElement.addEventListener("input", () => {
     updateBody();
     updateLocalStorage();
 })
+// update local storage to save the theme on the screen for next visit on the website
 function updateLocalStorage() {
     localStorage.setItem("mode", JSON.stringify(inputElement.checked));
 }
