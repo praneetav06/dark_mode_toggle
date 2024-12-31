@@ -10,4 +10,4 @@
 
 - **HTML**: Structure of the toggle button and webpage.
 - **CSS**: Styling for dark and light themes.
-- **JavaScript**: Functionality to toggle themes.
+- **JavaScript**: Functionality to toggle themes between light and dark.
